@@ -116,14 +116,14 @@
 		</Address>
 	</NationalPark>
 	<NationalPark>
-		<Name>Rocky Mountain National Park</Name>
-		<Phone>970-586-1206</Phone>
-		<Address NearestAirport="Eagle County Regional Airport">
-			<Number>1400</Number>
-			<Street>S Broadway</Street>
-			<City>Estes Park</City>
-			<State>CO</State>
-			<Zip>80517</Zip>
+		<Name>Shenandoah National Park</Name>
+		<Phone>540-999-3506</Phone>
+		<Address NearestAirport="Washington Dulles International Airport">
+			<Number>3400</Number>
+			<Street>Park Loop Road</Street>
+			<City>Front Royal</City>
+			<State>VA</State>
+			<Zip>22630</Zip>
 		</Address>
 	</NationalPark>
 </NationalParks>
